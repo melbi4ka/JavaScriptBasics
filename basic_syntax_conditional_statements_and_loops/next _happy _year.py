@@ -6,6 +6,3 @@ while True:
     if len(string_current_year) == len(set(string_current_year)):
         print(current_year)
         break
-
-
-
