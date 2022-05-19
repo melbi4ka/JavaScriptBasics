@@ -21,8 +21,3 @@ for day in range(1, days+1):
 
 money_per_person = int(money_counter/group_size)
 print(f"{group_size} companions received {money_per_person} coins each.")
-
-
-
-
-
