@@ -20,15 +20,3 @@ for number in range(number_snowballs):
 
 
 print(f"{max_snowball_weight} : {max_snowball_time} = {max_value:.0f} ({max_snowball_quality})")
-
-
-
-
-
-
-
-
-
-
-
-
