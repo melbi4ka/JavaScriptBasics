@@ -11,17 +11,3 @@ for nums in range(number):
         sum_litters += litters
 
 print(sum_litters)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
