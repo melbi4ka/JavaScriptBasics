@@ -7,5 +7,3 @@ for index, char in enumerate(str_word):
         upper_list.append(index)
 
 print(upper_list)
-
-
