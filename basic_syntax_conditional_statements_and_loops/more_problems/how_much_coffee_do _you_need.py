@@ -15,5 +15,3 @@ while command != "END":
 
 if counter <= 5:
     print(counter)
-
-
