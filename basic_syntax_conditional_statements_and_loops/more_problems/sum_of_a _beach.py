@@ -15,5 +15,3 @@ if "sun" in str_word:
     counter += result
 
 print(counter)
-
-
