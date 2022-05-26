@@ -13,12 +13,3 @@ for shuffles in range(shuffles):
         new_cards_list.append(right_side[index])
     cards = new_cards_list
 print(cards)
-
-
-
-
-
-
-
-
-
