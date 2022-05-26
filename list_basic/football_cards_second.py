@@ -17,5 +17,3 @@ for card in info:
 print(f"Team A - {team_a_players}; Team B - {team_b_players}")
 if condition:
     print("Game was terminated")
-
-
