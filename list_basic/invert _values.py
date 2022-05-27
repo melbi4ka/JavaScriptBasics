@@ -6,6 +6,3 @@ for element in range(len(start_list)):
     final_list.append(current_element)
 
 print(final_list)
-
-
-
