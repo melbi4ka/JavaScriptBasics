@@ -32,4 +32,3 @@ if budget + sum_new_prices >= 150:
     print("Hello, France!")
 else:
     print("Not enough money.")
-
