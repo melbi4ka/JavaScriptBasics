@@ -8,4 +8,3 @@ for number in range(1, count+1):
     final_list.append(new_factor)
 
 print(final_list)
-
