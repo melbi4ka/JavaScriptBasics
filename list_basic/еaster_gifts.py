@@ -23,20 +23,3 @@ while "None" in gifts:
 
 for k in gifts: # print(" ".join(gifts))
     print(k, end=" ")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
