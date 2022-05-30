@@ -20,16 +20,3 @@ result = []
 for num in new_list:
     result.append(str(num))
 print(", ".join(result))
-
-
-
-
-
-
-
-
-
-
-
-
-
