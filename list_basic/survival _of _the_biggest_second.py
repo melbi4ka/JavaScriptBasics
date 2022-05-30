@@ -12,5 +12,3 @@ final_numbers = []
 for num in numbers:
     final_numbers.append(str(num))
 print(", ".join(final_numbers))
-
-
