@@ -13,4 +13,3 @@ for num in range (len(numbers_as_str)):
     numbers_as_str[num] = str(numbers_as_str[num])
 
 print(", ".join(numbers_as_str))
-
