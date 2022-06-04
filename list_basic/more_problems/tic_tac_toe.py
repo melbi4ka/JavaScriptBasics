@@ -53,5 +53,4 @@ elif win_second:
     print("Second player won")
 else:
     print("Draw!")
-
-#print(win_first, win_second)
+    
