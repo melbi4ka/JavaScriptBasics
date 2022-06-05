@@ -10,7 +10,3 @@ for num in my_list:
     new_list.append(int(num))
 
 print(new_list)
-
-
-
-
