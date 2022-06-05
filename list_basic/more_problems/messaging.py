@@ -25,17 +25,3 @@ for k in range(len(new_list)):
 
 for j in end_list:
     print(", ".join(j), end="")
-
-
-
-
-
-
-
-
-#print(new_list)
-
-
-
-
-
