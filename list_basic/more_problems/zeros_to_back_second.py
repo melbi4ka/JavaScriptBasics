@@ -9,5 +9,3 @@ for zero in info:
     else:
         temp.append(int(zero))
 print(temp + zeros)
-
-
