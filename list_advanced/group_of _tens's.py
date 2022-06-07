@@ -11,4 +11,3 @@ while counter < len(sequence_nums):
     group_of_nums += 10
 
     print(f"Group of {group_of_nums-10}'s: {new_numbers}")
-
