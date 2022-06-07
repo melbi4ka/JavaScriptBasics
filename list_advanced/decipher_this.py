@@ -1,17 +1,17 @@
 secret_message = input().split()
 
-for word in secret_message: #минавам през всички думи
+for word in secret_message: 
     chrs = ""
     dig = ""
-    for char in word: # минавам през елементите на думата
-        if char.isdigit(): # ако елемента е цифра, добавям отгоре към стринга за цифри
+    for char in word: 
+        if char.isdigit(): 
             dig += "".join(char)
-        if char.isalpha(): # ако елемента е буква, добавям към стринга за букви
+        if char.isalpha(): 
             chrs += "".join(char)
-    decip_dig = chr(int(dig)) #намирам в ascii буквата, която отговаря на числото
+    decip_dig = chr(int(dig)) 
     if len(chrs) > 1:
-        decip_chrs = chrs[-1:] + chrs[1:-1] + chrs[:1] # swapвам първия и последния елемент
+        decip_chrs = chrs[-1:] + chrs[1:-1] + chrs[:1] 
     else:
-        decip_chrs = chrs # ако няма какво да суапвам
+        decip_chrs = chrs 
 
     print("".join(decip_dig+decip_chrs), end=" ")
