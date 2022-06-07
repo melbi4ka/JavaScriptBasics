@@ -28,7 +28,3 @@ while new_command != "Craft!":
     new_command = input()
 
 print(", ".join(items))
-
-
-
-
