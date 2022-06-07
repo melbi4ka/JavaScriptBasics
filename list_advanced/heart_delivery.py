@@ -2,7 +2,6 @@ neighbor = [int(s) for s in input().split("@")]
 command = input().split()
 position = 0
 
-
 while command[0] != "Love!":
     value = int(command[1])
     position += value
