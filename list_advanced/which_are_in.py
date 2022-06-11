@@ -8,5 +8,3 @@ for el in first_words:
             new_words.append(el)
 
 print(new_words)
-
-
