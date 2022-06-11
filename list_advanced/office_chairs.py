@@ -16,7 +16,3 @@ for nums in range(1, number_of_rooms+1):
 
 if all_visitors <= all_chairs:
     print(f"Game On, {all_chairs - all_visitors} free chairs left")
-
-
-
-
