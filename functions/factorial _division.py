@@ -11,6 +11,3 @@ def factorial_division(num_one, num_two):
 number_one = int(input())
 number_two = int(input())
 print(factorial_division(number_one, number_two))
-
-
-
