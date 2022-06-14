@@ -1,6 +1,5 @@
 from math import factorial
 
-
 def factorial_division(num_one, num_two):
     factorial_one = factorial(num_one)
     factorial_two = factorial(num_two)
