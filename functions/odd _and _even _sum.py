@@ -12,6 +12,4 @@ def odd_even_func(num):
 
 number = list(input())
 odd_even = list(odd_even_func(number))
-#print(odd_even)
 print(f"Odd sum = {odd_even[0]}, Even sum = {odd_even[1]}")
-
