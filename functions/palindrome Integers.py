@@ -16,8 +16,5 @@ def palinndrome_number(nums):
         print(is_palindrome)
 
 
-
 numbers = list(map(int, input().split(", ")))
 palinndrome_number(numbers)
-
-
