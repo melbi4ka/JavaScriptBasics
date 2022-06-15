@@ -26,10 +26,3 @@ def valid_password(passwd):
 
 password = input()
 valid_password(password)
-
-
-
-
-
-
-
