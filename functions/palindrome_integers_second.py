@@ -5,6 +5,5 @@ def palinndrome_number(nums):
         else:
             print("False")
 
-
 numbers = input().split(", ")
 palinndrome_number(numbers)
