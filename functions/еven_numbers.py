@@ -8,9 +8,3 @@ number = input().split()
 new_number = map(int, number)
 even_numbers = filter(check_even, new_number)
 print(list(even_numbers))
-
-
-
-
-
-
