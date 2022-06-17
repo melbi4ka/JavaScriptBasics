@@ -10,4 +10,3 @@ def purfect_number(num):
 
 number = int(input())
 print(purfect_number(number))
-
