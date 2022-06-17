@@ -5,5 +5,3 @@ def sorted_nums(nums):
 
 numbers = list(map(int, input().split()))
 print(sorted_nums(numbers))
-
-
