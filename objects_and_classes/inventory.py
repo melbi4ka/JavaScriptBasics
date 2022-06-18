@@ -22,4 +22,3 @@ inventory.add_item("sword")
 print(inventory.add_item("bottle"))
 print(inventory.get_capacity())
 print(inventory)
-
