@@ -20,3 +20,4 @@ storage.add_product("potato")
 storage.add_product("tomato")
 storage.add_product("bread")
 print(storage.get_products())
+
