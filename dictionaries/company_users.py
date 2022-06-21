@@ -18,7 +18,3 @@ for key, values in company_dict.items():
     print(f"{key}")
     result = '\n-- '.join(new_values)
     print(f"-- {result}")
-
-#print(company_dict)
-
-
