@@ -14,5 +14,3 @@ while command != "stop":
 
 for key, value in resource_dict.items():
     print(f"{key} -> {value}")
-
-    
