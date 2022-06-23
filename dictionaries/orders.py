@@ -18,10 +18,5 @@ while line != "buy":
 
 for key, values in orders_dict.items():
     result = values[0] * values[1]
-    print(f"{key} -> {result:.2f}")
-
-#print(orders_dict)
-
-
-
-
+    print(f"{key} -> {result:.2f}"
+          
