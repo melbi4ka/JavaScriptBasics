@@ -17,10 +17,4 @@ for num in range(number):
         print(f"{name} -> {contact_dict[name]}")
     else:
         print(f"Contact {name} does not exist.")
-
-
-# print(contact_dict)
-# print(number)
-# print(name)
-
-
+        
