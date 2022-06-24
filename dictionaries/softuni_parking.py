@@ -22,6 +22,3 @@ for n in range(number):
 
 for key, value in car_dict.items():
     print(f"{key} => {value}")
-
-
-
