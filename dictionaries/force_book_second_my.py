@@ -45,7 +45,3 @@ for side, user in sides_dict.items():
         print(f"Side: {side}, Members: {len(user)}")
         x = '\n! '.join(user)
         print(f"! {x}")
-
-#print(sides_dict)
-
-
