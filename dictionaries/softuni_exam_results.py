@@ -38,8 +38,3 @@ for key, value in exam_dict.items():
 print("Submissions:")
 for key, value in submission_dict.items():
     print(f"{key} - {value}")
-
-
-# print(exam_dict)
-# print(submission_dict)
-
