@@ -43,7 +43,3 @@ for key, value in sorted_users_dict:
     sorted_value = sorted(value.items(), key = lambda kvpt: -kvpt[1])
     for val in sorted_value:
         print(f"#  {val[0]} -> {val[1]}")
-
-# print(sorted_users_dict)
-# print(users_dict)
-
