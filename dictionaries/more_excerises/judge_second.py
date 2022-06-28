@@ -50,18 +50,3 @@ sorted_total_points = sorted(totals_for_sorted.items(), key = lambda kvpt: -kvpt
 for name, points in sorted_total_points:
     n += 1
     print(f"{n}. {name} -> {points}")
-
-# for key, points in total_points.items():
-#     n += 1
-#     # print(key)
-#     # print(points.items())
-#     sorted_points = sorted(points.items(), key = lambda kvpt: -kvpt[1])
-#     # print(sorted_points)
-#
-#
-
-# print(total_points)
-
-# print(sorted_total_points)
-# print(contest_dict.items())
-# print(total_points.items())
