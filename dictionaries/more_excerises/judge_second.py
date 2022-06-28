@@ -48,5 +48,3 @@ sorted_total_points = sorted(totals_for_sorted.items(), key=lambda kvpt: (-kvpt[
 for name, points in sorted_total_points:
     n += 1
     print(f"{n}. {name} -> {points}")
-
-# 100/100
