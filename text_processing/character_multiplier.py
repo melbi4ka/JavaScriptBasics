@@ -19,9 +19,4 @@ elif len(word_one) > len(word_two):
     for m in range(len(word_two), len(word_one)):
         result += ord(word_one[m])
 
-
 print(result)
-
-
-
-
