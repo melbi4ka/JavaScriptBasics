@@ -7,5 +7,4 @@ for el in range(len(line)-1):
 
 replace_message += line[-1]
 
-
 print(replace_message)
