@@ -18,4 +18,3 @@ usernames = input().split(", ")
 for username in usernames:
     if valid_pass(username):
         print(username)
-
