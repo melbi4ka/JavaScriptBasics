@@ -48,15 +48,3 @@ for ticket in tickets:
 
     else:
         print(f'ticket "{ticket}" - no match')
-
-
-
-
-# print(tickets)
-# print(is_match)
-# print(symbol)
-
-
-
-
-
