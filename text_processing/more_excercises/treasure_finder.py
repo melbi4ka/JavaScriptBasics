@@ -23,6 +23,3 @@ for el in strings_list:
     for match in matches:
         if match:
             print(f"Found {match[0]} at {match[1]}")
-
-
-
