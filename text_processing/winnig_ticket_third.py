@@ -20,4 +20,3 @@ tickets_state = []
 for ticket in tickets:
     tickets_state.append(is_winning(ticket))
 print('\n'.join(ticket_state for ticket_state in tickets_state))
-# [print(s) for s in tickets_state]
