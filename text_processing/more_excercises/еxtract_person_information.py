@@ -15,6 +15,3 @@ for _ in range(number):
         age = ''.join(matches_age)
 
     print(f"{name} is {age} years old.")
-
-
-
