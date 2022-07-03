@@ -8,4 +8,3 @@ while line:
     if matches:
         print(" ".join(matches), end= " ")
     line = input()
-
