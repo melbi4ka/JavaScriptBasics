@@ -14,5 +14,3 @@ while line:
             print(f"{subdomain}{domain}{extension}")
 
     line = input()
-
-
