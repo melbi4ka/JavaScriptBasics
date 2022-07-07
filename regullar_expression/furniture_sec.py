@@ -19,6 +19,4 @@ while line != "Purchase":
 print("Bought furniture:")
 if len(furniture_list) > 0:
     print(*furniture_list, sep="\n")
-print(f"Total money spend: {total_price:.2f}")
-
-# букви в низ, цифри в низ, точка 0 или 1 пъти(може да  я има, може да я няма), цифри в низ, цифри в низ за количество
+print(f"Total money spend: {total_price:.2f}
