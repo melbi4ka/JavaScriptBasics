@@ -29,4 +29,3 @@ while command[0] != "Done":
     command = input().split()
 
 print(f"Your password is: {str_password}")
-
