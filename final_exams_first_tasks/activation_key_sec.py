@@ -28,3 +28,4 @@ while not data == "Generate":
 
 print(f"Your activation key is: {activation_key}")
 
+
