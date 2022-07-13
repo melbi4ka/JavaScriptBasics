@@ -27,5 +27,3 @@ while not data == "Generate":
     data = input()
 
 print(f"Your activation key is: {activation_key}")
-
-
