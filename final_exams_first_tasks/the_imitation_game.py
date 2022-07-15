@@ -18,8 +18,6 @@ while command != "Decode":
         if idx >= 0:
             message_as_list = message_as_list[0:idx] + (list(value)) + message_as_list[idx::]
 
-            #message_as_list.insert(idx, "".join(value))
-
 
     if action == "ChangeAll":
         substr = current_command[1]
@@ -31,8 +29,3 @@ while command != "Decode":
     command = input()
 
 print(f"The decrypted message is: {''.join(message_as_list)}")
-
-
-
-
-
