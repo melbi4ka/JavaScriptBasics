@@ -24,4 +24,3 @@ while not data == "Reveal":
     data = input()
 
 print(f"You have a new text message: {secret_message}")
-
