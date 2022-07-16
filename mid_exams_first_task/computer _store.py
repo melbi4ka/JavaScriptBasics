@@ -2,7 +2,6 @@ comand = input()
 price_sum = 0
 
 while comand != "special" and comand != "regular":
-    # когато е различно от двете заедно е true, когато едното е вярно, а другото не е false и не влиза в цикъла
     current_comand = float(comand)
 
     if current_comand < 0:
@@ -32,12 +31,3 @@ else:
         print(f"Taxes: {taxes:.2f}$")
         print("-----------")
         print(f"Total price: {total_price:.2f}$")
-
-
-
-
-
-
-
-
-
