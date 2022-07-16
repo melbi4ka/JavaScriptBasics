@@ -17,11 +17,3 @@ for student in range(number_students):
 
 print(f"Max Bonus: {ceil(max_bonus)}.")
 print(f"The student has attended {max_attendance} lectures.")
-
-
-
-
-
-
-
-
