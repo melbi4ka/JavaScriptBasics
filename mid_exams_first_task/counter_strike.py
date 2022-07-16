@@ -18,12 +18,3 @@ while command != "End of battle":
 
 if command == "End of battle":
     print(f"Won battles: {count_battle}. Energy left: {initial_energy}")
-
-
-
-
-
-
-
-
-
