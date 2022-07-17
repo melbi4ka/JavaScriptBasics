@@ -23,6 +23,3 @@ if quantity_food_kg > 0 and quantity_cover_kg > 0 and quantity_hay_kg > 0:
           f"Hay: {quantity_hay_kg:.2f}, Cover: {quantity_cover_kg:.2f}.")
 else:
     print("Merry must go to the pet store!")
-
-    
-
