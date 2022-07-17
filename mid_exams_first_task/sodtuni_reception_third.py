@@ -14,6 +14,4 @@ while students_count >= 0:
     if needed_hours % 4 == 0:
         needed_hours += 1
 
-
 print(f"Time needed: {needed_hours}h.")
-
