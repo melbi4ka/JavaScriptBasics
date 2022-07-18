@@ -18,23 +18,5 @@ while command != "End":
     command = input()
 
 
-print(f"Shot targets: {shot_target} -> {' '. join(map(str, targets))}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#print(int_targets)
-
+print(f"Shot targets: {shot_target} -> {' '. join(map(str, targets))}"
+      
