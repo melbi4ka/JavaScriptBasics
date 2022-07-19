@@ -32,7 +32,3 @@ while command[0] != "Go" and command[1] != "Shopping!":
 
 
 print(", ".join(grocery))
-
-
-
-
