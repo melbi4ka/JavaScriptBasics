@@ -25,13 +25,3 @@ elif all_people == 0 and counter < len(current_state):
 elif all_people > 0 and counter == len(current_state):
     print(f"There isn't enough space! {all_people} people in a queue!\n"
           f"{' '.join([str(x) for x in current_state])}")
-
-
-# print(people)
-# print(current_state)
-# print(counter)
-
-
-
-
-
