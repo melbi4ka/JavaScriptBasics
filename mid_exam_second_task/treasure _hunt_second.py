@@ -38,21 +38,3 @@ if len(initial_tresure) > 0:
 
     avg = sum_items/len(initial_tresure)
     print(f'Average treasure gain: {avg:.2f} pirate credits.')
-
-
-
-
-#    command = input()
-#print(initial_tresure)
-
-
-
-
-
-
-
-
-
-
-
-
