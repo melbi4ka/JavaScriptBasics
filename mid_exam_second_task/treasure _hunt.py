@@ -40,5 +40,3 @@ if len(loot) > 0:
 
     avg = f'{sum_items / len(loot):.2f}'
     print(f'Average treasure gain: {avg} pirate credits.')
-
-
