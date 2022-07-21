@@ -27,8 +27,6 @@ while command[0] != "Go" and command[1] != "Shopping!":
             grocery.remove(item)
             grocery.append(item)
 
-
     command = input().split()
-
 
 print(", ".join(grocery))
