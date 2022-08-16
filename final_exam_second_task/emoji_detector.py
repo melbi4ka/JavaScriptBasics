@@ -32,21 +32,3 @@ print(f"Cool threshold: {result}")
 print(f"{counter} emojis found in the text. The cool ones are:")
 print("\n".join(cooler))
 
-
-# патърна - започва с две точки или две звездички в група, звездичките да се ескейпнат и двете (::|\*\*)
-# една голяма буква, малки букви от 2 нагоре за да станат поне 3 с голямата в група ([A-Z][a-z]{2,})
-# завършва с това, което е мачнато в първа група \1
-
-
-# print(result)
-#      print(match.group())
-#
-# print(counter)
-# print(cooler)
-#
-#
-
-
-
-# print(result)
-# print(numbers_as_list)
