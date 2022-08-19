@@ -46,5 +46,3 @@ while line != "End":
 print(f"Ahoy, Captain! There are {len(cities_dict)} wealthy settlements to go to:")
 for town, additions in cities_dict.items():
     print(f"{town} -> Population: {additions[0]} citizens, Gold: {additions[1]} kg")
-
-# print(cities_dict)
