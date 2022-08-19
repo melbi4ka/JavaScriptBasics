@@ -54,7 +54,3 @@ while command != "Stop":
 
 for car, car_adds in car_dict.items():
     print(f"{car} -> Mileage: {car_adds[0]} kms, Fuel in the tank: {car_adds[1]} lt.")
-
-#sorted_car_dict = dict(sorted(car_dict.items(), key=lambda x: (-x[1][0], x[0])))
-
-
