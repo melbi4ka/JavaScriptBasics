@@ -41,11 +41,3 @@ sorted_dict = dict(sorted(composer_dict.items(), key = lambda x: (x[0], x[1][1])
 
 for key, value in sorted_dict.items():
     print(f"{key} -> Composer: {value[0]}, Key: {value[1]}")
-
-
-# print(composer_dict)
-# print(sorted_dict)
-
-
-
-
