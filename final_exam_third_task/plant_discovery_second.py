@@ -32,8 +32,6 @@ while command != "Exhibition":
         plants = explode[1]
         if plants in plant_dict:
             del plant_dict[plants][1:]
-            #plant_dict[plants].append(0)
-            # трябва само да изтривам рейтинга, без да добавям нулев. нулевия го добавям в цикъла, защото два пъти мога да имам ресет
         else:
             print("error")
 
