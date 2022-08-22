@@ -54,6 +54,3 @@ for key, value in plant_dict.items():
 print(f"Plants for the exhibition:")
 for key, value in plant_dict.items():
     print(f"- {key}; Rarity: {value[0]:}; Rating: {value[1]:.2f}")
-
-#print(plant_dict)
-#sorted_plants = dict(sorted(plant_dict.items(), key=lambda x: (-x[1][0], -x[1][1])))
