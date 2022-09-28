@@ -1,24 +1,3 @@
-# def fire_warship (a_warship, a_idx, a_damage):
-#     a_warship[a_idx] -= a_damage
-#     if a_warship[a_idx] <= 0:
-#         print("You won! The enemy ship has sunken.")
-#
-#     return a_warship
-
-# def defend_pirateship(a_pirateship, a_start, a_final, a_damge):
-#     for m in range (a_pirateship[a_start], a_pirateship[a_start] + 1):
-#         m -= damage
-#         if m <= 0:
-#             break
-#     print("You lost! The pirate ship has sunken.")
-#     return a_pirateship
-
-# def repair_pirateship(a_piratsh, a_index, a_health):
-#     if a_piratsh[a_index] + a_health <= 70:
-#         a_piratsh[a_index] += a_health
-#     else:
-#         a_piratsh[a_index] += 70 - a_piratsh[a_index]
-#     return a_piratsh
 
 def status_pirate (a_pirate):
     count = 0
@@ -61,25 +40,3 @@ while command[0] != "Retire":
 
 print(pirate_ship)
 print(warship)
-
-# for n in pirate_ship:
-#     for m in warship:
-#         if m <= 0:
-#             break
-#         else:
-#             sum_warship = sum(warship)
-#         break
-#
-#     if n <= 0:
-#         break
-#     else:
-#         sum_pirate = sum(pirate_ship)
-#         print (f"Pirate ship status: {sum} \n Warship status: {sum_warship}")
-#
-
-
-
-
-
-
-
