@@ -43,6 +43,3 @@ while command[0] != "End":
     command = input().split()
 
 print("|".join(list(map(str, targets))))
-
-
-
