@@ -13,7 +13,3 @@ if len(above_average) == 0:
     print("No")
 else:
     print(*above_average[:5])
-
-
-
-    # print(*[n for n in above_average if n > 5][:5])
