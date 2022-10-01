@@ -26,7 +26,3 @@ for n in range(len(vehicle)):
 
 
 print(f"The National Revenue Agency will collect {agency_taxes:.2f} euros in taxes.")
-
-# 100/100
-
-
