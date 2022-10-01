@@ -22,5 +22,3 @@ if my_bisc_month > bisc_per_month:
     print(f"You produce {percentage:.2f} percent more biscuits.")
 else:
     print(f"You produce {percentage:.2f} percent less biscuits.")
-
-#100/100
