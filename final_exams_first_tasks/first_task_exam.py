@@ -74,5 +74,3 @@ while a_command != "Complete":
 
 
     a_command = input()
-
-# 100/100
