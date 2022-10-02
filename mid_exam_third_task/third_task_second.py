@@ -36,7 +36,3 @@ elif sum_left < sum_right:
     print(f"Right - {sum_right}")
 else:
     print(f"Left - {sum_left}")
-
-    #100/100
-
-
