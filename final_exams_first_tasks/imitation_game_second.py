@@ -39,9 +39,3 @@ while a_command != "Decode":
     a_command = input()
 
 print(f"The decrypted message is: {text}")
-
-
-
-
-
-
