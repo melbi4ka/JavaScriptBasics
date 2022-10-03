@@ -44,6 +44,3 @@ while a_command != "Stop":
 
 for key, value in piece_dict.items():
     print(f"{key} -> Composer: {value['composer']}, Key: {value['key_piece']}")
-
-
-
