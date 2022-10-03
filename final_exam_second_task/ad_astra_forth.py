@@ -24,4 +24,3 @@ print(f"You have food to last you for: {days_per_total_kcal} days!")
 if len(product_dict) > 0:
     for value in product_dict.values():
            print(f"Item: {value['product']}, Best before: {value['date']}, Nutrition: {value['kcal']}")
-
