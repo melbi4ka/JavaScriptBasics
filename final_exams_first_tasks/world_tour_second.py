@@ -27,5 +27,3 @@ while a_command != "Travel":
     a_command = input()
 
 print(f"Ready for world tour! Planned stops: {stops}")
-
-
