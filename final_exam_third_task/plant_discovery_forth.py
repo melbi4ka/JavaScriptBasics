@@ -46,9 +46,3 @@ for key, value in plant_dict.items():
 
 
     print(f"- {key}; Rarity: {value[0]}; Rating: {average_rating:.2f}")
-
-
-
-# print(plant_dict)
-
-
