@@ -47,10 +47,3 @@ while a_command != "Stop":
 
 for car,value in cars_dict.items():
     print(f"{car} -> Mileage: {value['Mileage']} kms, Fuel in the tank: {value['Fuel']} lt.")
-
-# print(cars_dict)
-
-
-
-
-
