@@ -31,3 +31,4 @@ while a_command != "Reveal":
     a_command = input()
 
 print(f"You have a new text message: {message}")
+
