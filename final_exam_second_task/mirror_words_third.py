@@ -28,7 +28,3 @@ else:
         print(", ".join(mirrors_list))
     else:
         print("No mirror words!")
-
-
-
-
