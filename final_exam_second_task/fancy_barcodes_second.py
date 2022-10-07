@@ -18,8 +18,3 @@ for _ in range(number):
 
     else:
         print("Invalid barcode")
-
-
-
-
-    # print(match.group(1))
