@@ -29,9 +29,3 @@ for match in matches:
 print(f"{count} emojis found in the text. The cool ones are:")
 x = "\n"
 print(f"{x.join(cool_emoji)}")
-
-
-
-
-
-
