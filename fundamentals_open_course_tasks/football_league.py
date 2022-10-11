@@ -91,7 +91,3 @@ for team, goals in sorted_goals:
     print(f"- {team} -> {goals}")
     if m == 3:
         break
-# print(goal_dict)
-# print(sorted_goals)
-
-
