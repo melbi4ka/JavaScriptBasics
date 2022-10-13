@@ -8,7 +8,6 @@ while text != "end":
     # print(matches)
     if matches:
         match = "".join(matches)
-        # print(match)
 
         if "<a " in match:
             match = match.replace("<a","[URL")
@@ -25,5 +24,3 @@ while text != "end":
         print(text)
 
     text = input()
-
-    
