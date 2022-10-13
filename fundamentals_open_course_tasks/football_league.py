@@ -91,3 +91,5 @@ for team, goals in sorted_goals:
     print(f"- {team} -> {goals}")
     if m == 3:
         break
+
+        
