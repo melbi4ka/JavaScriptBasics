@@ -25,3 +25,5 @@ while text != "end":
         print(text)
 
     text = input()
+
+    
