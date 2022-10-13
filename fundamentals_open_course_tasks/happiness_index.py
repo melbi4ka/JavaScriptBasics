@@ -20,8 +20,6 @@ sad = sad_matches_one + sad_matches_two
 
 happines_index = len(happy) / len(sad)
 
-# print(happines_index)
-
 final_emoji = ""
 if happines_index < 1.0:
     final_emoji = ":("
@@ -34,5 +32,3 @@ elif happines_index >= 2.0:
 
 print(f"Happiness index: {happines_index:.2f} {final_emoji}")
 print(f"[Happy count: {len(happy)}, Sad count: {len(sad)}]")
-
-
