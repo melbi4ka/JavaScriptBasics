@@ -42,5 +42,3 @@ while text != "make migrations":
 
 if count == 0:
     print("DB is empty")
-
-    
