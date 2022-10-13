@@ -23,10 +23,3 @@ for match in matches:
 
 if no_match:
     print("Better luck next time")
-
-
-
-        # print(carats)
-        # print(word)
-        # print(numbers)
-
