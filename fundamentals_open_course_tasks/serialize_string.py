@@ -10,6 +10,3 @@ for char in start_string:
 
 for key, value in letter_dict.items():
     print(f"{key}:{'/'.join(value)}")
-
-
-
